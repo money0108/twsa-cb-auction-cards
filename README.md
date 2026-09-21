@@ -4,6 +4,16 @@
 
 新版檔名格式：`YYYYMMDD_CB代號_p1.png`、`YYYYMMDD_CB代號_p2.mp4`。
 
+## 2026-09-21
+
+### 30062
+
+[整合結果圖](cards/2026-09-21/20260921_30062_p1.png) ｜ [K 線事件動畫（直接播放）](https://money0108.github.io/twsa-cb-auction-cards/#20260921-30062)
+
+![30062 競拍結果](cards/2026-09-21/20260921_30062_p1.png)
+
+[![30062 K 線事件動畫預覽](cards/2026-09-21/20260921_30062_p2_preview.png)](https://money0108.github.io/twsa-cb-auction-cards/#20260921-30062)
+
 ## 2026-09-17
 
 ### 26462
